@@ -1,0 +1,26 @@
+Class totals: 
+-6total :178
+-5total :118
+-4total :228
+-3total :396
+-2total :563
+-1total :917
+0total :1525
+1total :2220
+2total :2559
+3total :2472
+4total :2951
+5total :3350
+6total :3415
+7total :2527
+8total :1429
+9total :761
+10total :368
+11total :199
+Total: 26176.0
+Ellipse Total: 524
+Ellipse Percent: 2.001833740831296
+Sprial Total: 24324
+Sprial Percent: 92.92481662591688
+Irregular Total 1328
+Irregular Percent 5.0733496332518335
