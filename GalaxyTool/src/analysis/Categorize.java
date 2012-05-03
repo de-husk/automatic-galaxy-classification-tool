@@ -9,7 +9,6 @@ import java.util.Scanner;
 
 public class Categorize {
 	public static void main(String args[]) throws IOException {
-		//TODO: remove below and change to params argument (its unprofessional to direct link)
 		if (args.length != 1) {
 			System.out.println("ERROR: Missing or Extra Arguments");
 		} else {
