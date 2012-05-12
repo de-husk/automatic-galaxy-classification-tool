@@ -1,0 +1,5 @@
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\MatrixLib\bin\Debug\MatrixLib.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\MatrixLib\bin\Debug\MatrixLib.pdb
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\MatrixLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\MatrixLib\obj\Debug\MatrixLib.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\MatrixLib\obj\Debug\MatrixLib.pdb

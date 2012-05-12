@@ -1,0 +1,36 @@
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\WinForms.exe
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\WinForms.pdb
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\WinForms.xml
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\ClassificationService.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\weka.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\MatrixLib.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\Datastructures.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.Runtime.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\ClassificationService.pdb
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\MatrixLib.pdb
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\bin\Debug\Datastructures.pdb
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\obj\x86\Debug\WinForms.Form1.resources
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\obj\x86\Debug\WinForms.Resources.resources
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\obj\x86\Debug\WinForms.exe
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\obj\x86\Debug\WinForms.xml
+C:\Users\harry\Documents\work\Galaxy Recognition\new code\GalaxyTool4 (3)\WinForms\obj\x86\Debug\WinForms.pdb
+G:\Project\GalaxyTool\WinForms\obj\x86\Debug\WinForms.exe
+G:\Project\GalaxyTool\WinForms\obj\x86\Debug\WinForms.xml
+G:\Project\GalaxyTool\WinForms\obj\x86\Debug\WinForms.pdb
